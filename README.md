@@ -10,4 +10,5 @@ The supplementary material includes:
 
 ## Supplementary PDF
 
-[View the supplementary material](./supplementary.pdf)
+[View the supplementary material](./LFTNet-Supplementary.pdf)
+
